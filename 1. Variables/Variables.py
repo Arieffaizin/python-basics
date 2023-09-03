@@ -2,6 +2,7 @@
 Variables
 """
 
+# Variable initialization
 first_name = "Eric"
 print(first_name)
 first_name = "Melissa"
